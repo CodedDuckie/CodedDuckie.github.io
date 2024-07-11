@@ -1,0 +1,9 @@
+body {
+    margin: 0px;
+}
+
+nav {
+    width: auto;
+    height: 150px;
+    background-color: green;
+}
