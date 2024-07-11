@@ -1,9 +1,11 @@
-body {
-    margin: 0px;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-nav {
-    width: auto;
-    height: 150px;
-    background-color: green;
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
